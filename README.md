@@ -1,2 +1,2 @@
-# sparx
-Single Page Application Research eXperiment
+# sparxel
+Single Page Application Research eXperiment eLearning development
